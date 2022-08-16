@@ -1,0 +1,11 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+    border-radius: 20px;
+    padding: 10px;
+    letter-spacing: 5px;
+}
